@@ -8,7 +8,7 @@ securitization patterns (2022-2025).
 This script implements systematic keyword-counting methodology to measure securitization
 intensity across enemy categories and economic threat frames.
 
-Author: [Your Name]
+Author: Davide Butti
 Thesis: "Building the Enemy: Populism and the Construction of Security Narratives 
          in Contemporary Argentina (2022-2025)"
 """
